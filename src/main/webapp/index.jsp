@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Rock Paper Scissors Game!!!</title>																																																						<html>
+<title>Rock Paper Scissors Game1!!!</title>																																																						<html>
 </head>
 
    <body>
